@@ -1,0 +1,57 @@
+
+button{
+	color:black;
+	font-size: 10px;
+	background-color: gray;
+	border:none;
+}
+
+input{
+	font-size: 50px;
+}
+
+.text{
+	font-size: 10px;
+	font-family: 'arial';
+}
+
+ul li{
+	font-size: 15px;
+	color: gray;
+}
+
+.imCustomClass{
+	text-decoration: underline;
+	color:yellow;
+}
+
+#audio{
+	display: none;
+}
+
+.btn-back{
+    border: 1px solid #f00;
+    padding: 5px 20px 5px 20px;
+}
+
+ul{
+	list-style: none !important;
+}
+
+ul li{
+    border-radius: 3px;
+    padding: 5px 10px 5px 10px;
+    background: gray;
+    color: gray;
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+ul li:hover{
+    background: black;
+}
+
+
+ul li a{
+    color: white;
+}
